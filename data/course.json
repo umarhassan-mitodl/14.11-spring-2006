@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Social Science"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
+  "legacy_uid": "1790d063-4fd7-938b-df47-1a0c306e7e6a",
+  "instructors": {
+    "content": [
+      "140d32c4-faef-5395-8ff6-ca8607d49f4d",
+      "6bd4d78d-e43c-92e0-857f-5d594fb6ea4f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ca2cb7aa-e94d-f054-82e0-cb53b17b36c4",
+    "website": "14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006"
+  },
+  "course_title": "Putting Social Sciences to the Test: Field Experiments in Economics",
+  "course_description": "14.11 is a new class on the topic of field (that is, 'in situ') and laboratory experiments in the social sciences - both what these experiments have taught and can teach us and how to conduct them.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.11",
+  "course_image_thumbnail": {
+    "content": "44d5cb8a-28ac-1593-1069-3eeec62e85e5",
+    "website": "14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "62f4ae8a-8e59-4d81-8279-abfd206dd180",
+  "site_short_id": "14.11-spring-2006",
+  "site_url_path": "courses/14-11-putting-social-sciences-to-the-test-field-experiments-in-economics-spring-2006",
+  "title": "Course Metadata"
+}
