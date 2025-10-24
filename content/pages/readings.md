@@ -34,7 +34,7 @@ Fershtman, Chaim, and Uri Gneezy. "Discrimination in a Segmented Society: An Exp
 
 Holland, Paul W. "Statistics and Causal Inference." *Journal of the American Statistical Association* 81, no. 396 (1986): 945-960.
 
-Mobius, Markus M., and Tanya S. Rosenblatt. "Why Beauty Matters." *American Economic Review* 96 (2006 forthcoming). ({{% resource_link "0039735f-1886-4d85-abf0-3529d2871953" "PDF" %}}){{< sup "#" >}}
+Mobius, Markus M., and Tanya S. Rosenblatt. "Why Beauty Matters." *American Economic Review* 96 (2006 forthcoming). ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.118.3553&rep=rep1&type=pdf)){{< sup "#" >}}
 
 Steele, Claude. "A Threat in the Air: How Stereotypes Shape the Intellectual Identities and Performance of Women and African Americans." *American Psychologist* 52, no. 6 (1997): 613-629.
 
@@ -80,7 +80,7 @@ Fehr, Ernst, and Bettina Rockenbach. "Detrimental Effects of Sanctions on Human 
 
 Gneezy, Uri, and Aldo Rustichini. "A Fine is a Price." *Journal of Legal Studies* 29, no. 1 (2000): 1-17.
 
-Glewwe, Paul, Nauman Ilias, and Michael Kremer. "{{% resource_link "62d6a54c-ff5a-4ca4-868f-3c05548f1c49" "Teacher Incentives" %}}." NBER Working Paper, no. 9671 (2003).
+Glewwe, Paul, Nauman Ilias, and Michael Kremer. "[Teacher Incentives](http://www.nber.org/papers/w9671)." NBER Working Paper, no. 9671 (2003).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -92,7 +92,7 @@ Esther Duflo
 
 Methodological Topics: Human Subjects
 
-{{% resource_link "87d7fd51-4e3c-497d-9426-478f8967aaa3" "The Belmont Report: Ethical Principles and Guidelines for the Projection of Human Subjects of Research" %}}
+[The Belmont Report: Ethical Principles and Guidelines for the Projection of Human Subjects of Research](http://ethics.iit.edu/eelibrary/biblio/belmont-report-ethical-principles-and-guidelines-protection-human-subjects-research)
 
 Chattopadhyay, Raghabendra, and Esther Duflo. "Women as Policy Makers: Evidence from a Randomized Policy Experiment in India." *Econometrica* 72, no. 5 (2004): 1409-1443.
 
@@ -156,7 +156,7 @@ Angrist, Josh, Eric Bettinger, Erik Bloom, Elizabeth King, and Michael Kremer. "
 
 Angrist, Josh, Eric Bettinger, and Michael Kremer. "Long-Term Consequences of Secondary School Vouchers: Evidence from Administrative Records in Colombia." *American Economic Review* 96, no. 3 (June 2006): 847-862.
 
-Angrist, J., and V. Lavy. "{{% resource_link "7da03478-fb05-40e1-81d9-1a762fa0c4b7" "The Effect of High School Matriculation Awards: Evidence from Randomized Trials" %}}." NBER Working Paper, no. 9389 (2002).
+Angrist, J., and V. Lavy. "[The Effect of High School Matriculation Awards: Evidence from Randomized Trials](http://www.nber.org/papers/w9389)." NBER Working Paper, no. 9389 (2002).
 
 Kremer, Michael, Edward Miguel, and Rebecca Thornton. "Incentives to Learn." Mimeograph, Harvard, 2004.
 
@@ -170,7 +170,7 @@ David Autor
 
 Methodological Topic: Randomization as an Instrumental Variable
 
-Duflo, Esther, and Rema Hanna. "{{% resource_link "4d073cb7-636e-446e-bc35-e92e28b9d53c" "Monitoring Works: Getting Teachers to Come to School" %}}." NBER Working Paper, no. 11880 (2005).
+Duflo, Esther, and Rema Hanna. "[Monitoring Works: Getting Teachers to Come to School](http://www.nber.org/papers/w11880)." NBER Working Paper, no. 11880 (2005).
 
 Gneezy, Uri. "Deception: The Role of Consequences." \_American Economic Review\_95, no. 1 (2005): 385-394.
 
@@ -180,7 +180,7 @@ Jacob, Brian A., and Steven D. Levitt. "Rotten Apples: An Investigation of the P
 
 Nagin, Daniel, James Rebitzer, Seth Sanders, and Lowell Taylor. "Monitoring, Motivation, and Management: The Determinants of Opportunistic Behavior in a Field Experiment." *American Economic Review* 92, no. 4 (2002): 850-873.
 
-Olken, Benjamin. "{{% resource_link "460a8784-8c60-4171-a6af-ace66b9161bf" "Monitoring Corruption: Evidence from a Field Experiment in Indonesia" %}}." NBER Working Paper, no. 11753 (2005).
+Olken, Benjamin. "[Monitoring Corruption: Evidence from a Field Experiment in Indonesia](http://www.nber.org/papers/w11753)." NBER Working Paper, no. 11753 (2005).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -212,7 +212,7 @@ Esther Duflo
 
 Della Vigna, Stefano, and Ulrike Malmendier. "Paying Not to Go to the Gym." *American Economic Review* (2006): forthcoming.
 
-Duflo, Esther, William Gale, Jeffrey Liebman, Peter Orszag, and Emmanuel Saez. "{{% resource_link "a52876bb-0f19-425e-bc88-05d40a77c870" "Saving Incentives for Low- and Middle-Income Families: Evidence from a Field Experiment with H and R Block" %}}." NBER Working Paper, no. 11680 (2005). (See also The Retirement Security Project Policy Brief No. 2005-5.)
+Duflo, Esther, William Gale, Jeffrey Liebman, Peter Orszag, and Emmanuel Saez. "[Saving Incentives for Low- and Middle-Income Families: Evidence from a Field Experiment with H and R Block](http://www.nber.org/papers/w11680)." NBER Working Paper, no. 11680 (2005). (See also The Retirement Security Project Policy Brief No. 2005-5.)
 
 Madrian, Brigitte, and Dennis Shea. "The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior." *Quarterly Journal of Economics* 116, no. 4 (2001): 1149-1187.
 
